@@ -1,1 +1,0 @@
-// jsPsych HTML button response plugin placeholder
